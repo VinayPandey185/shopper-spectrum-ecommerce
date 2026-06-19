@@ -209,6 +209,9 @@ shopper-spectrum-ecommerce
 │
 ├── notebook
 │   └── Shopper_Spectrum.ipynb
+|
+├── Project_Report
+│   └── 🛒 Shopper Spectrum_Report.pdf
 │
 └── Screenshots
     ├── home_page1.png
@@ -247,6 +250,13 @@ pip install -r requirements.txt
 ```bash
 python -m streamlit run app.py
 ```
+
+---
+
+## Future Improvements:
+* Deploy application on Streamlit Cloud
+* Use hybrid recommendation systems
+* Add real-time customer analytics dashboard
 
 ---
 
